@@ -42,9 +42,9 @@
     "command-exists": "^1.2.7",
     "filesize": "^3.6.1",
     "fs-extra": "^6.0.1",
-    "yargs": "^11.0.0"
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
-    "eslint-config-airbnb-bundle": "^2.0.1"
+    "eslint-config-airbnb-bundle": "^3.0.0"
   }
 }
